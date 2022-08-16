@@ -1,2 +1,2 @@
-# Infrasctructure-kb
+# Infrastructure-kb
 Infrastructure Engineering Knowledge Base Repository
