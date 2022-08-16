@@ -1,2 +1,2 @@
 # Infrastructure-kb
-Infrastructure Engineering Knowledge Base Repository
+Infrastructure Engineering Infrastructure Packages Directory
